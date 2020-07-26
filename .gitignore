@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/uim-numeric
+uim-numeric.so
+uim-numeric.dylib
+uim-numeric.dll
+uim-numeric.a
+uim-numeric.lib
+uim-numeric-test-*
+*.exe
+*.o
+*.obj
+*.lst
